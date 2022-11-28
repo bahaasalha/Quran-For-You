@@ -12,7 +12,7 @@
   <p align="center">
     An app to read and listen to Quran
     <br />
-    <a href="https://quran.mehdiessaadi.live"><strong>View Demo »</strong></a>
+    <a href="https://github.com/bahaasalha/Quran-Kareem.git"><strong>View Demo »</strong></a>
     <br />
   </p>
 </div>
@@ -36,7 +36,8 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![screencapture-127-0-0-1-5501-Dist-index-html-2022-11-28-19_34_20](https://user-images.githubusercontent.com/91798754/204344329-f149b719-5cca-493b-8532-1d737251c34d.png)
+
 
    Quran For You is a web app for reading and listening to Qur'an, the app has several translations and reciters. <br/>
    The App is a light clone for the [quran.com](https://quran.com/) website, with my ideas and touch, and it has two versions, this main version that buit with React Js and a [Vanila Js](https://github.com/EL-MEHDI-ESSAADI/Quran-Player/tree/Vanila-Js) version
