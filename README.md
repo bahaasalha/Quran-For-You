@@ -56,7 +56,7 @@
 
 ## Contact
 
-[@El Mehdi Essaadi](https://www.linkedin.com/in/el-mehdi-essaadi-a80815247) - mehdiessaadion@gmail.com
+[@Eng.Bahaa Salha](https://www.linkedin.com/in/eng-bahaasalha/) - bah.sal.2018@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -71,8 +71,5 @@
 -  [Cross-Browser favicon](https://realfavicongenerator.net/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [product-screenshot]: readmeImages/screenshot.jpg
