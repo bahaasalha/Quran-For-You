@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bahaasalha/Quran-Kareem.git"
+    "url": "https://github.com/bahaasalha/Quran-For-You.git"
   },
   "author": "Bahaa Ariq Salha",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EL-MEHDI-ESSAADI/Quran-Player/issues"
+    "url": "https://github.com/bahaasalha/Quran-For-You/issues"
   },
-  "homepage": "https://github.com/EL-MEHDI-ESSAADI/Quran-Player#readme"
+  "homepage": "https://github.com/bahaasalha/Quran-For-You#readme"
 }
