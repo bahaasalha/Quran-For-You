@@ -56,7 +56,7 @@
 
 ## Contact
 
-[@Eng.Bahaa Salha](https://www.linkedin.com/in/eng-bahaasalha/) - bah.sal.2018@gmail.com
+[@Eng.Bahaa Salha](https://www.linkedin.com/in/eng-bahaasalha/) Palestine - bah.sal.2018@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
