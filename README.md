@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/EL-MEHDI-ESSAADI/Quran-Player">
+  <a href="https:///Quran-Player">
     <img src="readmeImages/favIcon.png" alt="Logo" width="80" height="80">
   </a>
 
