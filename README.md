@@ -12,7 +12,7 @@
   <p align="center">
     An app to read and listen to Quran
     <br />
-    <a href="https://quran.mehdiessaadi.live/"><strong>View Demo in https://quran.bahaasalha.com »</strong></a>
+    <a href=""><strong>View Demo in https://quran.bahaasalha.com »</strong></a>
     <br />
   </p>
 </div>
