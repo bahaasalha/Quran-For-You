@@ -12,7 +12,7 @@
   <p align="center">
     An app to read and listen to Quran
     <br />
-    <a href=""><strong>View Demo in https://quran.bahaasalha.com »</strong></a>
+    <a href="bsalha.netlify.app"><strong>View Demo in https://quran.bahaasalha.com »</strong></a>
     <br />
   </p>
 </div>
